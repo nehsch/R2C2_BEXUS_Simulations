@@ -56,7 +56,7 @@ def initiate_dipole_mass():
     return 0
 
 
-def initial_position(cylinder_height, cylinder_radius, amount_dipoles):
+def initial_position(amount_dipoles, cylinder_height, cylinder_radius):
     """
     Initial position of chaff pieces
     Uniformly distributed over the volume of the chaff container

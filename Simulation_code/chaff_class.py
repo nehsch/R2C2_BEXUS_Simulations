@@ -11,7 +11,7 @@ import lookup_table
 
 class ChaffPiece():
 
-    def __init__(self, number_of_dipoles, dipole_characteristics, generated_initial_conditions):
+    def __init__(self, dipole_characteristics, generated_initial_conditions):
         """
         Contains all the information needed to describe the current status od a chaff piece
         """
@@ -23,13 +23,12 @@ class ChaffPiece():
         self.mass = self.length*self.width*self.height*dipole_characteristics['density']
         self.spiral_rate = generated_initial_conditions['Omega'] #Omega
         self.spiral_radius = generated_initial_conditions['spiral_radius'] #a
-        self.drag_coefficient
-        self.rheynolds_number
-        self.angle_of_attack #alpha
-        self.pitch_angle #gamma
+        self.angle_of_attack = None #alpha
+        self.pitch_angle = None  #gamma
+        self.drag_coefficient = None 
+        self.rheynolds_number = None 
+        
 
-        
-        
     def actualize_drag_coefficient(self):
         CA, CN = lookup_table.initiate_lookup(self.rheynolds_number, self.angle_of_attack)
         self.drag_coefficient = CA*np.cos(self.angle_of_attack)+CN*np.sin(self.angle_of_attack)
