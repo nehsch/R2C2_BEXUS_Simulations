@@ -1,0 +1,144 @@
+sonde_data/Sodankyla_October_2017.txt 
+mean_N: 5.342845 +/- 5.321463 m/s 
+mean_E: 8.182748 +/- 5.813720 m/s 
+max_N: 27.103068 +/- 10.760456 m/s 
+min_N: -22.515407 +/- 3.993412 m/s 
+max_E: 35.588393 +/- 20.379533 m/s 
+min_E: -21.768165 +/- 10.284624 m/s 
+max_change_N: 8.542915 +/- 6.724838 m/s 
+max_change_E: 8.294158 +/- 7.041251 m/s 
+
+
+sonde_data/Sodankyla_October_2016.txt 
+mean_N: 6.268203 +/- 4.821389 m/s 
+mean_E: 4.208799 +/- 4.389643 m/s 
+max_N: 53.283536 +/- 13.104717 m/s 
+min_N: -19.829333 +/- 7.008042 m/s 
+max_E: 30.488351 +/- 6.345087 m/s 
+min_E: -25.142555 +/- 11.376301 m/s 
+max_change_N: 10.101042 +/- 8.089389 m/s 
+max_change_E: 10.004956 +/- 8.162795 m/s 
+
+
+sonde_data/Sodankyla_October_2015.txt 
+mean_N: 6.356472 +/- 6.269821 m/s 
+mean_E: 11.917972 +/- 7.220124 m/s 
+max_N: 44.218995 +/- 6.072143 m/s 
+min_N: -19.950106 +/- 16.671057 m/s 
+max_E: 61.232954 +/- 7.579339 m/s 
+min_E: -21.019922 +/- 5.495495 m/s 
+max_change_N: 10.291911 +/- 10.352675 m/s 
+max_change_E: 9.495134 +/- 7.766156 m/s 
+
+
+sonde_data/Sodankyla_October_2014.txt 
+mean_N: 3.636731 +/- 5.491890 m/s 
+mean_E: 16.858382 +/- 7.683051 m/s 
+max_N: 34.930705 +/- 7.107259 m/s 
+min_N: -21.495500 +/- 5.066230 m/s 
+max_E: 37.458566 +/- 9.845810 m/s 
+min_E: -11.929859 +/- 4.735204 m/s 
+max_change_N: 10.200164 +/- 8.442004 m/s 
+max_change_E: 9.054486 +/- 7.127844 m/s 
+
+
+sonde_data/Kandalaksa_October_2018.txt 
+mean_N: 7.289987 +/- 7.145993 m/s 
+mean_E: 15.331050 +/- 6.660280 m/s 
+max_N: 35.025472 +/- 11.140673 m/s 
+min_N: -17.943730 +/- 2.713798 m/s 
+max_E: 43.778450 +/- 13.358719 m/s 
+min_E: -15.186527 +/- 5.474847 m/s 
+max_change_N: 3.793657 +/- 3.797308 m/s 
+max_change_E: 3.347005 +/- 3.320628 m/s 
+
+
+sonde_data/Kandalaksa_October_2017.txt 
+mean_N: 7.109792 +/- 4.796772 m/s 
+mean_E: 11.158877 +/- 7.576005 m/s 
+max_N: 28.281259 +/- 10.664156 m/s 
+min_N: -25.242652 +/- 6.168583 m/s 
+max_E: 30.604952 +/- 11.064473 m/s 
+min_E: -26.333517 +/- 14.525504 m/s 
+max_change_N: 3.375478 +/- 3.585053 m/s 
+max_change_E: 3.332534 +/- 3.230725 m/s 
+
+
+sonde_data/Kandalaksa_October_2016.txt 
+mean_N: 8.133896 +/- 5.102610 m/s 
+mean_E: 5.864449 +/- 4.989537 m/s 
+max_N: 49.499934 +/- 13.793363 m/s 
+min_N: -23.885389 +/- 6.854053 m/s 
+max_E: 32.696240 +/- 7.097473 m/s 
+min_E: -27.006301 +/- 10.428922 m/s 
+max_change_N: 3.251833 +/- 3.026425 m/s 
+max_change_E: 3.577707 +/- 3.428879 m/s 
+
+
+sonde_data/Kandalaksa_October_2015.txt 
+mean_N: 6.023707 +/- 8.090125 m/s 
+mean_E: 14.702723 +/- 8.015961 m/s 
+max_N: 45.523053 +/- 10.165537 m/s 
+min_N: -20.356921 +/- 9.304830 m/s 
+max_E: 59.986508 +/- 8.983249 m/s 
+min_E: -26.671030 +/- 10.056264 m/s 
+max_change_N: 3.780345 +/- 3.690074 m/s 
+max_change_E: 3.976861 +/- 3.498556 m/s 
+
+
+sonde_data/Kandalaksa_October_2014.txt 
+mean_N: 3.259407 +/- 5.020013 m/s 
+mean_E: 17.176746 +/- 8.594096 m/s 
+max_N: 42.566974 +/- 3.169516 m/s 
+min_N: -16.179804 +/- 6.646714 m/s 
+max_E: 38.874728 +/- 12.928200 m/s 
+min_E: -16.811133 +/- 2.966721 m/s 
+max_change_N: 3.045549 +/- 4.311464 m/s 
+max_change_E: 3.240282 +/- 3.097904 m/s 
+
+
+sonde_data/Andoya_October_2018.txt 
+mean_N: 4.992754 +/- 5.792788 m/s 
+mean_E: 17.128519 +/- 6.460084 m/s 
+max_N: 23.204577 +/- 5.535368 m/s 
+min_N: -46.363072 +/- 11.062458 m/s 
+max_E: 56.985268 +/- 9.637963 m/s 
+min_E: -9.626369 +/- 2.791543 m/s 
+max_change_N: 10.061178 +/- 9.419301 m/s 
+max_change_E: 9.359947 +/- 8.514219 m/s 
+
+
+sonde_data/Andoya_October_2017.txt 
+mean_N: 6.037480 +/- 7.058640 m/s 
+mean_E: 12.720791 +/- 6.985570 m/s 
+max_N: 24.487585 +/- 8.275108 m/s 
+min_N: -23.257018 +/- 4.491106 m/s 
+max_E: 32.253532 +/- 9.356251 m/s 
+min_E: -25.329229 +/- 4.069324 m/s 
+max_change_N: 8.745559 +/- 7.419135 m/s 
+max_change_E: 8.673738 +/- 7.283730 m/s 
+
+
+sonde_data/Andoya_October_2016.txt 
+mean_N: 5.170496 +/- 5.576240 m/s 
+mean_E: 5.338622 +/- 4.157486 m/s 
+max_N: 46.631199 +/- 7.687118 m/s 
+min_N: -21.607115 +/- 3.198406 m/s 
+max_E: 39.425741 +/- 6.528925 m/s 
+min_E: -17.315916 +/- 12.214799 m/s 
+max_change_N: 9.117475 +/- 7.721017 m/s 
+max_change_E: 8.659924 +/- 7.310282 m/s 
+
+
+sonde_data/Andoya_October_2015.txt 
+mean_N: 3.948402 +/- 6.977498 m/s 
+mean_E: 15.395038 +/- 7.879126 m/s 
+max_N: 43.913416 +/- 8.631674 m/s 
+min_N: -24.452410 +/- 8.802478 m/s 
+max_E: 59.535197 +/- 3.030223 m/s 
+min_E: -7.960902 +/- 2.200538 m/s 
+max_change_N: 9.972774 +/- 8.014320 m/s 
+max_change_E: 9.318914 +/- 7.595957 m/s 
+
+
+
