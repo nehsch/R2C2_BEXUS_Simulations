@@ -23,7 +23,8 @@ def use_dipole_testvalues():
 
 def use_container_testvalues():
     """
-    Sets the chaff container size .
+    Sets the chaff container size.
+    WILL HAVE TO BE ADJUSTED TO OUR CHOICES.
     Output: chaff container characteristics.
     """
     height = 0.1 #m
@@ -31,6 +32,12 @@ def use_container_testvalues():
     return {'height': height, 'radius': radius}
 
 def dipole_initial_conditions(nr_dipoles, container):
+    """
+    Sets the initial conditions for the motion of the ddpoles.
+    Input: number of dipoles, parameters for dipole container shape
+    Output: initial angle on spiral, spiral frequency, spiral radius, 
+            initial angle theta of dipole in air, initial position
+    """
     Omega_0 = initial_conditions.initial_spiral_angle(nr_dipoles)
     Omega = initial_conditions.initiate_spiral_rate(nr_dipoles)
     a = initial_conditions.initiate_spiral_radius(nr_dipoles)

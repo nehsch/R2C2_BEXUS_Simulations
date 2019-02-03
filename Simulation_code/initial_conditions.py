@@ -8,7 +8,6 @@ Created on Tue Jan 29 00:43:47 2019
 
 import numpy as np
 import scipy.stats as sp 
-from matplotlib import pyplot as plt
 
 
 def initial_spiral_angle(amount_dipoles):
